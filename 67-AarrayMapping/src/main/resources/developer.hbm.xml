@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC 
+"-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+
+<hibernate-mapping>
+
+	<class name="com.zensar.training.bean.Developer" table="developer30">
+		<id name="id" column="ID">
+			<generator class="native"></generator>
+		</id>
+		<property name="name" column="NAME"></property>
+		<property name="city" column="CITY"></property>
+		
+		<array name="skills" table="developer30_skills">
+			<key column="DID"></key>
+			<index column="idx"></index>
+			<element column="skill" type="java.lang.String"></element>
+		</array>
+	</class>
+
+</hibernate-mapping>

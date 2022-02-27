@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC 
+"-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+
+<hibernate-mapping>
+
+	<class name="com.zensar.training.bean.Bill" table="bills20">
+		<id name="billId" column="billId">
+			<generator class="native"></generator>
+		</id>
+		<property name="customerName" column="C_Name"></property>
+		<property name="billDate" column="BillDate"></property>
+
+		<array name="billItem" table="BillItems20">
+			<key column="billId"></key>
+			<index column="idx"></index>
+
+			<composite-element class="com.zensar.training.bean.BillItem">
+				<property name="productName" column="P_Name"></property>
+				<property name="price" column="Price"></property>
+				<property name="quantity" column="QTY"></property>
+			</composite-element>
+
+		</array>
+
+	</class>
+
+</hibernate-mapping>

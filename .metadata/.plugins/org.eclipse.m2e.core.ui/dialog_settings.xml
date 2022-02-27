@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="E:\javaprojects\89-UnitTesting"/>
+			<item value="E:\javaprojects\85-OLX_Advertises\src\main\java\com\zensar\olx\rest\AdvertisemntpostController.java"/>
+			<item value="E:\javaprojects\85-OLX_Advertises\src\main\resources\application.properties"/>
+			<item value="E:\javaprojects\75-HibernateQueryLanguage\src\main\java\com\zensar\training\util\HibernateUtil.java"/>
+			<item value="E:\javaprojects\75-HibernateQueryLanguage1"/>
+			<item value="E:\javaprojects\67-AarrayMapping\src\main\resources\hibernate.cfg.xml"/>
+			<item value="E:\javaprojects\71-InheritanceStratagies\src\main\java\com\zensar\training\bean\pack3\CarLoan.java"/>
+			<item value="E:\javaprojects\68-JPAIntro\pom.xml"/>
+			<item value="E:\javaprojects\68-JPAIntro\src\main\java\com\zensar\training\Main1.java"/>
+			<item value="E:\javaprojects\67-AarrayMapping\src\main\java\com\zensar\training\Main3.java"/>
+			<item value="E:\javaprojects\64-BasicORM\src\main\resources\hibernate.cfg.xml"/>
+			<item value="E:\javaprojects\63-HibernateIntro\src\main\java\com\zensar\training\util\HibernateUtil.java"/>
+			<item value="E:\javaprojects\41-ListExplore"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="All Catalogs"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+			<item value="com.zensar.training"/>
+			<item value="com.zensar.training._HibernateQueryLanguage"/>
+		</list>
+		<list key="groupId">
+			<item value="com.zensar.training"/>
+		</list>
+		<list key="artifactId">
+			<item value="90-UnitTesting"/>
+			<item value="86-SpringConfiguration"/>
+			<item value="80-JPANamedQuery"/>
+			<item value="79-JPAEntityAssociation"/>
+			<item value="78-SpringJdbc"/>
+			<item value="77-SpringComponentScan"/>
+			<item value="76-Springintro"/>
+			<item value="75-HibernateQueryLanguage"/>
+			<item value="74-HibernateQueryLanguage"/>
+			<item value="74-EntityAssociationHibernate"/>
+			<item value="73-CollectionMappingHibernate"/>
+			<item value="72-ArrayMapping"/>
+			<item value="71-InheritanceStratagies"/>
+			<item value="70-ComponentMapping"/>
+			<item value="69-BasicORM"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\RAMYA\Downloads\81-SpringBootHello"/>
+			<item value="E:\mavenProjects\EmployeeApp"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenModuleWizardParentPage">
+		<list key="moduleName">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+</section>

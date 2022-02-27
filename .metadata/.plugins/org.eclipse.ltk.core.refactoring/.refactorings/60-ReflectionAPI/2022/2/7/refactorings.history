@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;objectsClass&apos; in &apos;com.zensar.training.ui.Main2.main(...)&apos; to &apos;myClass&apos;&#x0D;&#x0A;- Original project: &apos;60-ReflectionAPI&apos;&#x0D;&#x0A;- Original element: &apos;com.zensar.training.ui.Main2.main(String[]).objectsClass&apos;&#x0D;&#x0A;- Renamed element: &apos;objectsClass&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;objectsClass&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;com.zensar.training.ui{Main2.java[Main2~main~\[QString;@objectsClass!212!245!218!229!QClass;!0!false" name="myClass" references="true" stamp="1644226898823" version="1.0"/>
+</session>
